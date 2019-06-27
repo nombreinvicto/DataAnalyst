@@ -16,7 +16,9 @@ analysis, 2017 bike share usage patterns for the first six months
 of the cities of Chicago, New York and Washington can be analysed.
  The attached `bikeshare.py` file can be run using any Python3 
  interpreter and the user will be interactively guided through in 
- the terminal for any relevant user queries presented in the console.
+ the terminal for any relevant user queries presented in the 
+ console. The data pertaining to the cities of Chicago, New York 
+ and Washington is attached in the repository as csv files.
   
   
   Technology Used:
