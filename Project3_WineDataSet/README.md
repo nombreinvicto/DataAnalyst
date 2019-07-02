@@ -1,6 +1,5 @@
 
-### Project 3: Descriptive  and Inferential Statistical Analysis of 
-Wine Dataset
+### Project 3: Descriptive  and Inferential Statistical Analysis of Wine Dataset
 
 <p align="center">
     <img width="300" height="150"
