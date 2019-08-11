@@ -14,16 +14,16 @@ customers or not.
     
 The first part of the analysis uses conventional descriptive
 statistics and bootstrapping techniques to find out
-quantitative differences in the rate of convertion of unpaid
+quantitative differences in the rate of conversion of unpaid
 to paid customers when subjected to the different landing
 pages. Subsequently, more methodical inferential and
 hypothesis testing methods have been employed to show any
-statistical significance of convertion ratess over the
+statistical significance of convertion rates over the
 treatments. Finally, a logistic regression
-model has been fit to the binary convertion target
+model has been fit to the binary conversion target
 variable and analysis was done to show if the landing
 page predictor does infact affect the target
-convertion rate variable.
+conversion rate variable.
 
 Technology Used:
 
