@@ -18,7 +18,7 @@ quantitative differences in the rate of conversion of unpaid
 to paid customers when subjected to the different landing
 pages. Subsequently, more methodical inferential and
 hypothesis testing methods have been employed to show any
-statistical significance of convertion rates over the
+statistical significance of conversion rates over the
 treatments. Finally, a logistic regression
 model has been fit to the binary conversion target
 variable and analysis was done to show if the landing
